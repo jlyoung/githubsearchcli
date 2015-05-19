@@ -5,6 +5,14 @@ Search results are displayed to standard output.
 ## Requirements
 **githubsearchcli** requires Java 7 or higher.
 
+## Download
+The githubsearchcli-1.0.jar executable jar file is located in the [jlyoung/githubsearchcli/target](https://github.com/jlyoung/githubsearchcli/tree/master/target) folder.
+You can clone the project locally:
+```
+git clone https://jlyoung@github.com/jlyoung/githubsearchcli.git
+```
+You can also download the jar file directly from [here](https://github.com/jlyoung/githubsearchcli/blob/master/target/githubsearchcli-1.0.jar?raw=true).
+
 ## Usage
 ```
 [user@localhost] $ java -jar githubsearchcli-1.0.jar --help
