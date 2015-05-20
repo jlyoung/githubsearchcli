@@ -2,6 +2,8 @@
 **githubsearchcli** is a command line tool for executing searches against public Git Hub repositories.
 Search results are displayed to standard output.
 
+![](http://joeyoung.io/content/images/2015/May/githubsearchcli.gif)
+
 ## Requirements
 **githubsearchcli** requires Java 7 or higher.
 
